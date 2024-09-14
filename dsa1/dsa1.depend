@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1716959562 source:c:\users\samso\cpp-projects\dsa1\main.cpp
+
+1716991661 source:c:\users\samso\cpp-projects\dsa1\stlvectors.cpp
+	<iostream>
+	<vector>
+
+1717102726 source:c:\users\samso\cpp-projects\dsa1\containers.cpp
+	<iostream>
+	<list>
+	<stack>
+
+1717104392 source:c:\users\samso\cpp-projects\dsa1\maps.cpp
+	<iostream>
+	<map>
+
+1717163306 source:c:\users\samso\cpp-projects\dsa1\doubly_linked_list.cpp
+	<iostream>
+
+1717437321 source:c:\users\samso\cpp-projects\dsa1\trees.cpp
+	<iostream>
+	<algorithm>
+	<list>
+	<iostream>
+
+1717437371 source:c:\users\samso\cpp-projects\dsa1\mergetwoarrays.cpp
+	<iostream>
+	<algorithm>
+
+1718114587 source:c:\users\samso\cpp-projects\dsa1\trees3.cpp
+	<iostream>
+	<stack>
+	<queue>
+

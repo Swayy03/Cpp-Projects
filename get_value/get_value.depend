@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716412478 source:c:\users\samso\cpp-projects\get_value\main.c
+	<stdio.h>
+	<stdlib.h>
+

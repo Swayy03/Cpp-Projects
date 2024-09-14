@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718827825 source:c:\users\samso\cpp-projects\oop\main.cpp
+	<iostream>
+	<list>
+
+1718827847 source:c:\users\samso\cpp-projects\oop\cpptutorials.cpp
+	<iostream>
+
